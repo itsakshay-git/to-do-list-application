@@ -80,6 +80,4 @@ This is a simple To-Do List application built using React. It allows users to ad
 
 The project is deployed using **Netlify**:
 
-```sh
-
-```
+https://todo-aplication-akshay.netlify.app/
