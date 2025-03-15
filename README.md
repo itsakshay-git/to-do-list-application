@@ -1,9 +1,10 @@
 # To-Do List Application 
 https://todo-aplication-akshay.netlify.app/
-![Screenshot 2025-03-16 010903](https://github.com/user-attachments/assets/ed9f3cf5-06bb-4d0a-8feb-af93635f735f)
 
 ## github link
 https://github.com/itsakshay-git/to-do-list-application
+
+![Screenshot 2025-03-16 010903](https://github.com/user-attachments/assets/ed9f3cf5-06bb-4d0a-8feb-af93635f735f)
 
 ## Overview
 
