@@ -41,10 +41,8 @@ This is a simple To-Do List application built using React. It allows users to ad
 
 ## Project Structure
 
-```
 ![Screenshot 2025-03-16 005003](https://github.com/user-attachments/assets/6559006c-bb3f-4a3a-b60e-f0284aed3e88)
 
-```
 
 ## Components
 
