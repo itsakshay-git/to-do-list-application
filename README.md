@@ -4,8 +4,6 @@ https://todo-aplication-akshay.netlify.app/
 ## github link
 https://github.com/itsakshay-git/to-do-list-application
 
-![Screenshot 2025-03-16 010903](https://github.com/user-attachments/assets/ed9f3cf5-06bb-4d0a-8feb-af93635f735f)
-
 ## Overview
 
 This is a simple To-Do List application built using React. It allows users to add, delete, edit, and mark tasks as completed.
